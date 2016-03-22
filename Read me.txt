@@ -1,0 +1,26 @@
+--------------------------------
+Name:	Mohammod Zunayed Hassan
+ID:	09-13177-1
+Email: 	zunayed-hassan@live.com
+--------------------------------
+
+For LogMonitorGUI:
+	
+$	python LogMonitorGUI.py
+
+or
+
+$	./LogMonitorGUI.sh
+
+
+
+For LogMonitor Command Line Interface
+
+$	python LogMonitorCLI.py
+
+or
+
+$	./LogMonitorCLI.sh
+
+
+Thanks :-)
